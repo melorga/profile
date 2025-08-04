@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariano Esteban Elorga - AWS Solutions Architect
+# 👋 Hi, I'm Mariano Elorga - AWS Solutions Architect
 
 <div align="center">
 

@@ -75,11 +75,9 @@ Enterprise AWS Organization setup with Control Tower, SCPs, and automated accoun
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/mariano-elorga)
+- 💼 [LinkedIn](https://linkedin.com/in/marianoelorga)
 - 📧 [Email](mailto:marianoelorga@gmail.com)
-- 🌐 [Portfolio Website](https://melorga.dev)
-- 📝 [Technical Blog](https://blog.melorga.dev)
-
+- 🌐 [AI Personal Assistant](https://melorga.pages.dev)
 ---
 
 > "Infrastructure is not just about servers and networks. It's about enabling innovation, ensuring reliability, and delivering value to customers through technology."
